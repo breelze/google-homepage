@@ -1,0 +1,1 @@
+mini project, deconstruct existing page and rebuild using browser devtools.
